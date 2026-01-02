@@ -1,4 +1,4 @@
-markdown# Tapio 2 - AI Food Delivery Price Comparison 🍕
+markdown# Tapio 2 - AI Food Delivery Price Comparison 
 
 AI assistant that compares food delivery prices across Wolt and Foodora to help you save money!
 
@@ -60,14 +60,14 @@ python agent.py
 
 **Tapio:** 
 ```
-🍕 WOLT:
+ WOLT:
 Pizza Palace - €11.90 + €2.90 delivery = €14.80
 
-🍕 FOODORA:
+ FOODORA:
 Pizza Palace - €10.90 + €1.90 delivery = €12.80
 
-💰 BEST DEAL: Foodora - Save €2.00!
-📱 Order: https://www.foodora.fi/restaurant/pizza-palace
+ BEST DEAL: Foodora - Save €2.00!
+Order: https://www.foodora.fi/restaurant/pizza-palace
 ```
 
 ## API Endpoints
